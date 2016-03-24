@@ -32,11 +32,11 @@ if [ "$username" =  "$superuser" ]; then
 # if power level is 5
                   echo Wow
                   ;;
-                [34])
-# if power level is 3 or 4
+                [314])
+# if power level is 1, 3 or 4
                   echo that is good
                   ;;
-                [21])
+                [2])
 # if power level is 1 or 2
                   echo not bad
                   ;;

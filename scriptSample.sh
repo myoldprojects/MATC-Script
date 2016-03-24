@@ -3,6 +3,8 @@
 #
 # Shell Scripting Sample
 #
+# Note: chmod u+x this script file before you run (execute) it.
+#
 # use echo to write something to the screen
 echo "Welcome all MATC Web Dev to Shell Scripting."
 # define a variable and assign it with a value

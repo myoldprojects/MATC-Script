@@ -37,7 +37,7 @@ if [ "$username" =  "$superuser" ]; then
                 [314])
 # if power level is 1, 3 or 4
                   echo that is good
-                  ;;
+                  ;&  # use ;& so it will fall thru
                 [2])
 # if power level is 1 or 2
                   echo not bad

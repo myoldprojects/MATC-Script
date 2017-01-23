@@ -5,8 +5,14 @@
 #
 # Note: chmod u+x this script file before you run (execute) it.
 #
+# This is a simple script which demonstrate the usage of 
+# echo
+# printf
+# condition statement like if and case
+#
+#
 # use echo to write something to the screen
-echo "Welcome all MATC Web Dev to Shell Scripting."
+echo "Welcome to MATC Web Dev Shell Scripting."
 # define a variable and assign it with a value
 superuser="root"
 #echo "super user name is" $superuser
